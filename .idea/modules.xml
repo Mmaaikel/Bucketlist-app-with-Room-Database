@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bucketlist-app-with-Room-Database.iml" filepath="$PROJECT_DIR$/Bucketlist-app-with-Room-Database.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bucketlist2.iml" filepath="$PROJECT_DIR$/bucketlist2.iml" />
     </modules>
   </component>
 </project>
